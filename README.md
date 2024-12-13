@@ -65,6 +65,7 @@ This project addresses the following analytical questions:
 ## Tools and Techniques Used 🛠️📊🖥️
 
 - 🛠️ **SQL Queries**: Complex joins, aggregate functions, common table expressions (CTEs), recursive queries, window functions (ROW\_NUMBER, PARTITION BY).
+- 🐘 **PostgreSQL**: RDBMS using writing SQL queries.
 - 📊 **Data Analysis**: Insights derived using grouping, filtering, and sorting.
 - 🖥️ **GitHub**: For version control and showcasing the project.
 
